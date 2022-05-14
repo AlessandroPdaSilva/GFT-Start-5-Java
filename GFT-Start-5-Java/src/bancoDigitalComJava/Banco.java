@@ -1,4 +1,4 @@
-package BancoDigitalComJava;
+package bancoDigitalComJava;
 
 import java.util.List;
 

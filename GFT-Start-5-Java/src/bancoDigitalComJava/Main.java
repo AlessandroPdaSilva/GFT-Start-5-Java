@@ -1,4 +1,4 @@
-package BancoDigitalComJava;
+package bancoDigitalComJava;
 
 public class Main {
 
